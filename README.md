@@ -66,14 +66,4 @@ To run the project:
 
 ---
 
-## 📌 Author
-
-**Mohammed Jabir**  
-Aspiring AI Data Engineer | Data Analytics & BI Enthusiast
-
----
-
-## 📬 Feedback
-
-Feel free to open issues or pull requests if you have suggestions or improvements!
 
